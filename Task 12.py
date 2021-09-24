@@ -6,7 +6,7 @@ def input_multi_lines():
     lines = []
     while True:
         line = input()
-        if line:
+        if bool(line) == True:
             lines.append(line)
         else:
             break

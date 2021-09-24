@@ -10,12 +10,6 @@ def print_pattern(num = 9):
     * * *
     * *
     *
-    Mayukai Alucard
-    Mayukai Mirage
-    Mayukai Mono
-    Mayukai Reversal
-    One Dark Pro
-    
     '''
     num = num // 2 + 1
     for i in range(num):
@@ -27,6 +21,7 @@ def print_pattern(num = 9):
             print("*", end=" ")
         print()
 
+####        Driver Program     ####
 length = int(input("Enter a number above 3: "))
 print(f'Required Pattern of length {length} is as follows:')
 print_pattern(length)
