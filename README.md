@@ -1,7 +1,7 @@
 # Lab Manual
 ## [Task 1](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%201.py)
 Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
-## Task 2
+## [Task 2](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%202.py)
 Write a Python program to convert temperatures to and from celsius, fahrenheit.
 
 Formula :
@@ -17,12 +17,12 @@ F = (9 / 5 ) * C + 32
 60°C is 140 in Fahrenheit
 45°F is 7 in Celsius
 ```
-## Task 3
+## [Task 3](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%203.py)
 Write a Python program to guess a number between 1 to 9.
 
 Note : User is prompted to enter a guess. If the user guesses wrong then the prompt appears again until the guess is correct, on successful guess, user will get a ***"Well
 guessed!"*** message, and the program will exit.
-## Task 4
+## [Task 4](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%204.py)
 Write a Python program to construct the following pattern, using a nested for loop.
 ```
 *
@@ -35,9 +35,9 @@ Write a Python program to construct the following pattern, using a nested for lo
 * *
 *
 ```
-## Task 5
+## [Task 5](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%205.py)
 Write a Python program that accepts a word from the user and reverse it.
-## Task 6
+## [Task 6](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%206.py)
 Write a Python program to count the number of even and odd numbers from a series of numbers.
 
 Sample numbers : 
@@ -49,14 +49,14 @@ Expected Output :
 Number of even numbers : 5
 Number of odd numbers : 4
 ```
-## Task 7
+## [Task 7](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%207.py)
 Write a Python program that prints each item and its corresponding type from the following list.
 
 Sample List : 
 ```
 datalist = [1452, 11.23, 1+2j, True, 'w3resource', (0, -1), [5, 12], {"class":'V', "section":'A'}]
 ```
-## Task 8
+## [Task 8](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%208.py)
 Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
 
 Note : Use `continue` statement.
@@ -65,7 +65,7 @@ Expected Output :
 ```
 0 1 2 4 5
 ```
-## Task 9
+## [Task 9](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%209.py)
 Write a Python program to get the Fibonacci series between 0 to 50. 
 
 Note : The Fibonacci Sequence is the series of numbers : ``  0, 1, 1, 2, 3, 5, 8, 13, 21, ....  ``Every next number is found by adding up the two numbers before it.
@@ -74,7 +74,7 @@ Expected Output :
 ```
 1 1 2 3 5 8 13 21 34
 ```
-## Task 10
+## [Task 10](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2010.py)
 Write a Python program which iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 Sample Output :
@@ -86,7 +86,7 @@ Fizz
 4
 Buzz
 ```
-## Task 11
+## [Task 11](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2011.py)
 Write a Python program which takes two digits m (row) and n (column) as input and generates a two-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
 
 Note :
@@ -104,9 +104,9 @@ Expected Result :
 ```
 [[0, 0, 0, 0], [0, 1, 2, 3], [0, 2, 4, 6]]
 ```
-## Task 12
+## [Task 12](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2012.py)
 Write a Python program that accepts a sequence of lines (blank line to terminate) as input and prints the lines as output (all characters in lower case).
-## Task 13
+## [Task 13](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2013.py)
 Write a Python program which accepts a sequence of comma separated 4 digit binary numbers as its input and print the numbers that are divisible by 5 in a comma separated sequence.
 
 Sample Data : 
@@ -117,7 +117,7 @@ Expected Output :
 ```
 1010
 ```
-## Task 14
+## [Task 14](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2014.py)
 Write a Python program that accepts a string and calculate the number of digits and letters.
 
 Sample Data : 
@@ -129,7 +129,7 @@ Expected Output :
 Letters 6
 Digits 2
 ```
-## Task 15
+## [Task 15](https://github.com/DaudAhmad0303/AI-Lab-2/blob/master/Task%2015.py)
 Write a Python program to check the validity of password input by users.
 
 Validation :
