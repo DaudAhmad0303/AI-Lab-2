@@ -126,8 +126,8 @@ Python 3.2
 ```
 Expected Output :
 ```
-Letters 6
-Digits 2
+Letters: 6
+Digits: 2
 ```
 ## [Task 15](./Task%2015.py)
 Write a Python program to check the validity of password input by users.
